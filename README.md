@@ -4,8 +4,8 @@
 ### Connect with me:
 
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC_bmw8l5ywg3gCPqmDpteDw#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC_bmw8l5ywg3gCPqmDpteDw#gh-dark-mode-only)
+[![website](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_bmw8l5ywg3gCPqmDpteDw#gh-light-mode-only)
+[![website](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_bmw8l5ywg3gCPqmDpteDw#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/ShadowMst2265#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/ShadowMst2265#gh-dark-mode-only)
